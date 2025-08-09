@@ -1,17 +1,26 @@
 # 👋 Hi, I'm Chaitanya
 
-💻 **AWS DevOps Engineer** with 3+ years of hands-on experience in building and maintaining scalable, secure, and automated cloud environments.  
-🚀 Skilled in **AWS**, **Terraform**, **Kubernetes**, **CI/CD with Jenkins**, **Docker**, and **Infrastructure as Code (IaC)**.
+DevOps Engineer with 3+ years of experience in **AWS, Kubernetes, Terraform, Jenkins, and Docker**.  
+I specialize in building automated, scalable, and secure cloud solutions that help teams deliver faster and more reliably.
 
 ---
 
 ## 💫 About Me
-- 🌟 Passionate about automation, scalability, and cloud-native solutions.  
-- ⚡ Experienced in designing resilient architectures using AWS services (EC2, S3, VPC, RDS, WAF, GuardDuty, ECS, ALB).  
-- 🛠 Strong in CI/CD pipelines, container orchestration, and infrastructure provisioning.  
-- 📈 Adept at monitoring, troubleshooting, and optimizing cloud performance.
+- Passionate about automation, scalability, and cloud-native architectures.  
+- Skilled in CI/CD pipelines, container orchestration, and infrastructure-as-code.  
+- Experienced in monitoring, troubleshooting, and optimizing AWS-based production systems.
 
 ---
+
+## 🛠 Tech Stack
+**Cloud:** AWS (EC2, S3, VPC, RDS, ALB, WAF, ECS, EKS)  
+**IaC:** Terraform  
+**Containers:** Docker, Kubernetes  
+**CI/CD:** Jenkins, Git, SonarQube  
+**Monitoring:** Prometheus, Grafana  
+
+---
+
 
 
 ## 🌐 Socials:
