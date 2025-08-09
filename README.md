@@ -1,17 +1,17 @@
-![banner](https://github.com/jonnadulachaitanya/jonnadulachaitanya/blob/main/linkedintemplate1.png)
+<p align="center">
+  <img src="https://github.com/jonnadulachaitanya/jonnadulachaitanya/blob/main/linkedintemplate1.png" alt="Profile Banner" />
+</p>
 
-
-# 👋 Hi, I'm Chaitanya
-
-DevOps Engineer with 3+ years of experience in **AWS, Kubernetes, Terraform, Jenkins, and Docker**.  
-I specialize in building automated, scalable, and secure cloud solutions that help teams deliver faster and more reliably.
+<h1 align="center">👋 Hi, I'm Chaitanya J</h1>
+<p align="center">
+  🚀 DevOps Engineer | ☁️ AWS Cloud Enthusiast | ⚙️ Automation Advocate  
+</p>
 
 ---
 
-## 💫 About Me
-- Passionate about automation, scalability, and cloud-native architectures.  
-- Skilled in CI/CD pipelines, container orchestration, and infrastructure-as-code.  
-- Experienced in monitoring, troubleshooting, and optimizing AWS-based production systems.
+## 💼 About Me  
+I’m a DevOps Engineer passionate about building scalable, secure, and high-performing infrastructure.  
+With 3+ years of experience in AWS cloud services, CI/CD automation, and container orchestration, I help teams accelerate delivery while maintaining stability.  
 
 ---
 
