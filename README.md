@@ -1,17 +1,24 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/jonnadulachaitanya/jonnadulachaitanya/blob/main/linkedintemplate1.png" alt="Profile Banner" />
+  <img src="https://github.com/jonnadulachaitanya/jonnadulachaitanya/blob/main/linkedintemplate1.png" alt="Chaitanya J - AWS DevOps Engineer" width="100%">
 </p>
 
-<h1 align="center">👋 Hi, I'm Chaitanya J</h1>
+<!-- Name & Title -->
+<h1 align="center">👋 Hi, I'm Chaitanya Jonnadula</h1>
 <p align="center">
-  🚀 DevOps Engineer | ☁️ AWS Cloud Enthusiast | ⚙️ Automation Advocate  
+  AWS DevOps Engineer | Infrastructure Automation | CI/CD & Container Orchestration
 </p>
+
 
 ---
 
-## 💼 About Me  
-I’m a DevOps Engineer passionate about building scalable, secure, and high-performing infrastructure.  
-With 3+ years of experience in AWS cloud services, CI/CD automation, and container orchestration, I help teams accelerate delivery while maintaining stability.  
+## 💼 About Me
+- 🎯 **3 years of experience** in designing and managing scalable, resilient AWS-based infrastructures.
+- 🛠 Skilled in **CI/CD (Jenkins)**, **Docker**, **Kubernetes (ECS)**, and **Terraform** for efficient deployments.
+- 📊 Experienced in **monitoring & alerting** using Prometheus and Grafana.
+- 🔐 Strong focus on **security** with AWS WAF and VPC configurations.
+- 🧩 Passionate about automation, troubleshooting, and optimizing performance.
+
 
 ---
 
