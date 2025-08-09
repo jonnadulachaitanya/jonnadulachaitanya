@@ -1,3 +1,6 @@
+![banner](https://github.com/jonnadulachaitanya/jonnadulachaitanya/blob/main/linkedintemplate1.png)
+
+
 # 👋 Hi, I'm Chaitanya
 
 DevOps Engineer with 3+ years of experience in **AWS, Kubernetes, Terraform, Jenkins, and Docker**.  
