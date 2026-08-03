@@ -6,7 +6,7 @@
 
 AWS • Azure • Kubernetes • Terraform • CI/CD
 
-<img src=https://github.com/jonnadulachaitanya/jonnadulachaitanya/blob/main/linkedintemplate1.png" alt="Chaitanya J - AWS DevOps Engineer" width="100%" />
+<img src="https://github.com/jonnadulachaitanya/jonnadulachaitanya/blob/main/linkedintemplate1.png" alt="Chaitanya J - AWS DevOps Engineer" width="100%" />
 
 </div>
 
