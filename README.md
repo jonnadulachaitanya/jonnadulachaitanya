@@ -1,59 +1,135 @@
-<!-- Banner -->
+<div align="center">
+
+# Hi 👋 I'm Chaitanya Jonnadula
+
+### ☁️ Cloud & DevOps Engineer
+
+AWS • Azure • Kubernetes • Terraform • CI/CD
+
+<img src="https://komarev.com/ghpvc/?username=jonnadulachaitanya&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 💼 DevOps Engineer with **3.5+ years of experience**
+- ☁️ Experienced in AWS & Microsoft Azure
+- ⚙️ Building CI/CD pipelines using Jenkins & Azure DevOps
+- 🐳 Managing Kubernetes (EKS) workloads in production
+- 🏗️ Infrastructure as Code using Terraform & CloudFormation
+- 📊 Monitoring with Prometheus, Grafana & CloudWatch
+- 🔐 Passionate about Automation, Cloud Security & DevSecOps
+
+---
+
+# 🛠 Tech Stack
+
+## ☁️ Cloud
+
+![AWS](https://skillicons.dev/icons?i=aws)
+
+![Azure](https://skillicons.dev/icons?i=azure)
+
+---
+
+## 🚀 DevOps
+
+![Docker](https://skillicons.dev/icons?i=docker)
+
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+
+![Terraform](https://skillicons.dev/icons?i=terraform)
+
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+
+![Git](https://skillicons.dev/icons?i=git)
+
+![GitHub](https://skillicons.dev/icons?i=github)
+
+![Linux](https://skillicons.dev/icons?i=linux)
+
+![Bash](https://skillicons.dev/icons?i=bash)
+
+---
+
+## 📊 Monitoring
+
+- Prometheus
+- Grafana
+- AWS CloudWatch
+
+---
+
+## 🔐 DevSecOps
+
+- SonarQube
+- Veracode
+- Secure CI/CD
+
+---
+
+# 🏆 Professional Highlights
+
+✔ Managed Kubernetes clusters hosting **100+ microservices**
+
+✔ Reduced release cycle from **3 hours → 45 minutes**
+
+✔ Optimized infrastructure cost by **35%**
+
+✔ Reduced Docker image size by **70%**
+
+✔ Improved MTTR by **30%**
+
+✔ Implemented Blue-Green, Rolling & Canary deployments
+
+---
+
+# 🏅 Certifications
+
+🏆 Microsoft Certified: DevOps Engineer Expert (AZ-400)
+
+🏆 Microsoft Certified: Azure Fundamentals (AZ-900)
+
+🏆 AWS Certified Cloud Practitioner (CLF-C02)
+
+---
+
+# 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github.com/jonnadulachaitanya/jonnadulachaitanya/blob/main/linkedintemplate1.png" alt="Chaitanya J - AWS DevOps Engineer" width="100%">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jonnadulachaitanya&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnadulachaitanya&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<!-- Name & Title -->
-<h1 align="center">👋 Hi, I'm Chaitanya Jonnadula</h1>
 <p align="center">
-  <b>AWS DevOps Engineer | Infrastructure Automation | CI/CD & Container Orchestration</b>
+
+<img src="https://streak-stats.demolab.com?user=jonnadulachaitanya&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 💼 About Me
-- 🎯 **3 years of experience** in designing and managing scalable, resilient AWS-based infrastructures.
-- 🛠 Skilled in **CI/CD (Jenkins)**, **Docker**, **Kubernetes (ECS/EKS)**, and **Terraform** for efficient deployments.
-- 📊 Experienced in **monitoring & alerting** using Prometheus and Grafana.
-- 🔐 Strong focus on **security** with AWS WAF and VPC configurations.
-- 🧩 Passionate about automation, troubleshooting, and optimizing performance.
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/chaitanya-jonnadula/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:chaitanyajonnadula98@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ---
 
-## 🛠 Tech Stack
-**Cloud:** AWS (EC2, S3, VPC, RDS, ALB, WAF, ECS, EKS)  
-**IaC:** Terraform  
-**Containers:** Docker, Kubernetes  
-**CI/CD:** Jenkins, Git, SonarQube  
-**Monitoring:** Prometheus, Grafana  
+## 💡 DevOps Philosophy
 
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-jonnadula/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyajonnadula98@gmail.com)  
-
----
-
-## 💻 Tools & Technologies
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=jonnadulachaitanya&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=jonnadulachaitanya&theme=highcontrast&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnadulachaitanya&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=jonnadulachaitanya&icon=0&color=0)](https://visitcount.itsvg.in)
+> *Automate repetitive tasks, monitor everything, deploy with confidence, and continuously improve.*
