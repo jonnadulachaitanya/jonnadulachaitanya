@@ -6,7 +6,7 @@
 
 AWS • Azure • Kubernetes • Terraform • CI/CD
 
-<img src="https://komarev.com/ghpvc/?username=jonnadulachaitanya&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src=https://github.com/jonnadulachaitanya/jonnadulachaitanya/blob/main/linkedintemplate1.png" alt="Chaitanya J - AWS DevOps Engineer" width="100%" />
 
 </div>
 
