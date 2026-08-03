@@ -90,9 +90,9 @@ AWS • Azure • Kubernetes • Terraform • CI/CD
 
 🏆 Microsoft Certified: DevOps Engineer Expert (AZ-400)
 
-🏆 Microsoft Certified: Azure Fundamentals (AZ-900)
-
 🏆 AWS Certified Cloud Practitioner (CLF-C02)
+
+🏆 Microsoft Certified: Azure Fundamentals (AZ-900)
 
 ---
 
