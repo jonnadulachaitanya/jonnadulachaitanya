@@ -100,9 +100,11 @@ AWS • Azure • Kubernetes • Terraform • CI/CD
 
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=jonnadulachaitanya&theme=highcontrast&hide_border=false&v=2)
+![](https://github-readme-stats.vercel.app/api?username=jonnadulachaitanya&show_icons=true&theme=tokyonight&cache_seconds=1)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnadulachaitanya&theme=highcontrast&hide_border=false&layout=compact&v=2)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnadulachaitanya&layout=compact&theme=tokyonight&cache_seconds=1)
+
+![](https://streak-stats.demolab.com?user=jonnadulachaitanya&theme=tokyonight)
 
 </p>
 
