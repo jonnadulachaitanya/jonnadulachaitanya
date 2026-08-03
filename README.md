@@ -130,8 +130,3 @@ AWS • Azure • Kubernetes • Terraform • CI/CD
 
 </p>
 
----
-
-## 💡 DevOps Philosophy
-
-> *Automate repetitive tasks, monitor everything, deploy with confidence, and continuously improve.*
